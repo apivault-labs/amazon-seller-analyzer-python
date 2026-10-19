@@ -68,3 +68,15 @@ This repository is intentionally a thin API client. Collection, retries, analysi
 ## License
 
 MIT. The hosted Actor is a separate paid service governed by Apify terms.
+
+<!-- apivault-integrations:start -->
+## Hosted Actor and integrations
+
+- [Run Amazon Seller Analyzer — Bulk Product CSV API on Apify](https://apify.com/apivault_labs/amazon-seller-revenue-strategy-analyzer).
+- [Current pricing and usage terms](https://apify.com/apivault_labs/amazon-seller-revenue-strategy-analyzer/pricing).
+- [n8n community package: n8n-nodes-apivault-amazon-seller-analyzer](https://www.npmjs.com/package/n8n-nodes-apivault-amazon-seller-analyzer).
+- [n8n source and usage](https://github.com/apivault-labs/n8n-nodes-apivault-amazon-seller-analyzer).
+- [n8n source and usage](https://github.com/apivault-labs/apivault-labs/tree/main/community-nodes/n8n-nodes-apivault-amazon-seller-analyzer).
+
+An Apify account and API token are required. Hosted Actor/platform charges apply. npm publication is not n8n verification or confirmation of n8n Cloud availability.
+<!-- apivault-integrations:end -->
